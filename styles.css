@@ -136,7 +136,10 @@ body{
     }
     .btn2{
         width:100% !important;
-        font-size: 15px;
+        font-size: 14px;
+        word-spacing: 1px;
+        margin-right:0px !important;
+        padding-right:0px !important;
     }
 
 }   
