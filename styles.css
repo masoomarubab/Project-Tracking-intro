@@ -81,6 +81,12 @@ body{
     width: calc(100% + 13.5rem);
 }
 @media screen and (max-width:767px){
+    .navbar{
+        margin-left:0px !important;
+    }
+    .navbar-brand{
+        margin-left:0px !important;
+    }
     .nav-list{
         background-color: #fff;
         border: 1px solid white;
@@ -108,14 +114,21 @@ body{
         color: hsl(230, 29%, 20%);
         font-weight: bolder;
         font-size: 2rem;
+        margin-left:0px !important;
+    }
+    .new-p{
+        margin-left:0px !important;
     }
     .para{
         color:hsl(205, 9%, 74%);
         font-size: 18px;
         width:75% !important;
+        padding-left:0px !important;
     }
     .buttons{
         width:100% !important;
+        margin-left:0px !important;
+        padding-left:0px !important;
     }
     .btn1{
         width:100% !important;
