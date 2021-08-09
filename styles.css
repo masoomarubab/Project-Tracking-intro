@@ -115,6 +115,7 @@ body{
         font-weight: bolder;
         font-size: 2rem;
         margin-left:0px !important;
+        width:100% !important;
     }
     .new-p{
         margin-left:0px !important;
@@ -135,6 +136,7 @@ body{
     }
     .btn2{
         width:100% !important;
+        font-size: 15px;
     }
 
 }   
